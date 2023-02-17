@@ -46,10 +46,6 @@ I’m a front-end developer who likes to create immersive experience. I am passi
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Rajmane&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
