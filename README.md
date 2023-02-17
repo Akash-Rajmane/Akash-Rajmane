@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I’m a front-end developer who likes to create immersive experience. I am passionate about web development. I enjoy learning new things.  
+I’m a front-end developer who likes to create immersive user experience. I am passionate about web development. I enjoy learning new things.  
   
 
 
