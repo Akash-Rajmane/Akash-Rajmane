@@ -1,4 +1,4 @@
-## Hey 👋, I'm Akash Rajmane!  
+## Hey 👋, I'm Akash !  
   
 
 <a href="https://github.com/Akash-Rajmane" target="_blank">
