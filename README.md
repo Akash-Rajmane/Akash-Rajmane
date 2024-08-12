@@ -18,7 +18,7 @@ I’m a full stack developer who likes to create immersive user experience. I am
 
 <br/>  
 
-### My Portfolio: https://akash-rajmane-portfolio.netlify.app
+### My Portfolio: https://akashrajmane.site
 
 
 ## Languages and Tools  
