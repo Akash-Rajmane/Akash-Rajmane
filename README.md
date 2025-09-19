@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I’m a full stack developer who likes to create immersive user experience. I am passionate about web development. I enjoy learning new things.  
+𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 delivering scalable applications across 𝗠𝗘𝗥𝗡 stack and 𝐈𝐨𝐓 driven platforms. Recognized as a 𝐓𝐨𝐩 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐕𝐨𝐢𝐜𝐞 (LinkedIn). Well-versed in Web Content Accessibility Guidelines (WCAG), Internationalization (i18n), optimization techniques, and React Profiling, with a strong design sense and a continuous drive to learn and adapt to new technologies.
   
 
 
